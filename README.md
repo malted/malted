@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+
+![Malted's Commit Snake](https://raw.githubusercontent.com/ma1ted/ma1ted/snake/github-contribution-grid-snake.gif)
+
 <!--
 **ma1ted/ma1ted** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
