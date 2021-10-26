@@ -67,12 +67,4 @@ I love open source software 📖 and GNU/Linux 🐧
 
 ---
 
-<h4>README Stats</h4>
-
-![Maintenance](https://img.shields.io/maintenance/yes/2021)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=ma1ted.ma1ted)
-![GitHub repo size](https://img.shields.io/github/repo-size/ma1ted/ma1ted)
-![GitHub last commit](https://img.shields.io/github/last-commit/ma1ted/ma1ted)
-
-
 ![Malted's Commit Snake](https://raw.githubusercontent.com/ma1ted/ma1ted/snake/github-contribution-grid-snake.svg)
