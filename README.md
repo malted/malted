@@ -8,24 +8,23 @@ What's crackalackin'? I'm a full-stack developer from the UK 🇬🇧 <br>
 I dabble in all sorts. Game development, backend, midend, and frontend most recently <br>
 I love open source software 📖 and GNU/Linux 🐧
 
-
-- 💪 I'm most comfortable with Python, although I am branching out
-
-- ✏️ I’m currently working on Threeditor, an interactive web editor for building & exporting scenes using https://threejs.org (powered by Svelte!)
+- ✏️ I’m currently working on:
+* Threeditor, an interactive web editor for building & exporting scenes using [Three.js](https://threejs.org)
+* A Typescript library providing useful abstractions and ease of interaction with OvernetData's EduLinkOne service
 
 [![Threeditor Card](https://github-readme-stats.vercel.app/api/pin/?username=ma1ted&repo=threeditor&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
+[![EduLink Card](https://github-readme-stats.vercel.app/api/pin/?username=ma1ted&repo=edulink&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
 <h4>🌱 I’m currently learning</h4>
 <ul>
   <li>Rust - A performant and memory-safe general-purpose programming language</li>
-  <li>Svelte - A frontend compiler that allows you to build super fast, reactive web applications.</li>
+  <li>Godot - A powerful game engine</li>
 </ul>
 <h4>🔜 In the future I plan to learn</h4>
 <ul>
   <li>Ionic - An SDK for hybrid mobile app development & PWAs</li>
-  <li>Godot - A powerful game engine</li>
   <li>Open/FreeBSD - UNIX-like operating systems</li>
 </ul>
 
@@ -45,7 +44,7 @@ I love open source software 📖 and GNU/Linux 🐧
 ![GitHub](https://img.shields.io/badge/GitHub-%230D1117?style=flat-square&logo=github)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%230D1117?style=flat-square&logo=githubactions)
 ![Replit](https://img.shields.io/badge/Replit-%230D1117?style=flat-square&logo=replit)
-
+![Gitpod](https://img.shields.io/badge/Gitpod-%230D1117?style=flat-square&logo=gitpod)
 
 <h3>💬 Languages</h3>
 
@@ -53,18 +52,17 @@ I love open source software 📖 and GNU/Linux 🐧
 ![Bash](https://img.shields.io/badge/-Bash-%230D1117?style=flat-square&logo=gnubash)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%230D1117?style=flat-square&logo=javascript)
 ![Typescript](https://img.shields.io/badge/-Typescript-%230D1117?style=flat-square&logo=typescript)
+![Svelte](https://img.shields.io/badge/Svelte-%230D1117?style=flat-square&logo=svelte)
 ![Python](https://img.shields.io/badge/-Python-%230D1117?style=flat-square&logo=python)
 ![C#](https://img.shields.io/badge/-C%23-%230D1117?style=flat-square&logo=csharp)
 
-<h3>Other (awesome) tools I use daily</h3>
+<h3>Other (awesome) tools I use</h3>
 
 ![Unity](https://img.shields.io/badge/Unity-%230D1117?style=flat-square&logo=unity)
-![Svelte](https://img.shields.io/badge/Svelte-%230D1117?style=flat-square&logo=svelte)
-![Bulma](https://img.shields.io/badge/Bulma-%230D1117?style=flat-square&logo=bulma)
 ![Threejs](https://img.shields.io/badge/Three.js-%230D1117?style=flat-square&logo=three.js)
 ![Vitejs](https://img.shields.io/badge/Vite-%230D1117?style=flat-square&logo=vite)
 ![SQLite](https://img.shields.io/badge/SQLite-%230D1117?style=flat-square&logo=sqlite)
 
 ---
-
+![Malted's GitHub stats](https://github-readme-stats.vercel.app/api?username=ma1ted&show_icons=true&theme=tokyonight&count_private=true)
 ![Malted's Commit Snake](https://raw.githubusercontent.com/ma1ted/ma1ted/snake/github-contribution-grid-snake.svg)
