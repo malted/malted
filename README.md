@@ -8,7 +8,9 @@ What's crackalackin'? I'm a full-stack developer from the UK 🇬🇧 <br>
 I dabble in all sorts. Game development, backend, midend, and frontend most recently <br>
 I love open source software 📖 and GNU/Linux 🐧
 
-- ✏️ I’m currently working on:
+---
+
+✏️ I’m currently working on:
 * Threeditor, an interactive web editor for building & exporting scenes using [Three.js](https://threejs.org)
 * A Typescript library providing useful abstractions and ease of interaction with OvernetData's EduLinkOne service
 
@@ -21,6 +23,7 @@ I love open source software 📖 and GNU/Linux 🐧
 <ul>
   <li>Rust - A performant and memory-safe general-purpose programming language</li>
   <li>Godot - A powerful game engine</li>
+  <li>Bevy - A powerful game engine</li>
 </ul>
 <h4>🔜 In the future I plan to learn</h4>
 <ul>
@@ -34,7 +37,7 @@ I love open source software 📖 and GNU/Linux 🐧
 <h3>🔨 My Tools</h3>
 
 ![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-%230D1117?style=flat-square&logo=arch-linux)
-![Firefox](https://img.shields.io/badge/Firefox-%230D1117?style=flat-square&logo=firefox)
+![Firefox](https://img.shields.io/badge/Firefox-%230D1117?style=flat-square&logo=firefox-browser)
 ![Vim](https://img.shields.io/badge/Vim-%230D1117?style=flat-square&logo=vim)
 ![Alacritty](https://img.shields.io/badge/Alacritty-%230D1117?style=flat-square&logo=alacritty)
 
@@ -48,13 +51,14 @@ I love open source software 📖 and GNU/Linux 🐧
 
 <h3>💬 Languages</h3>
 
-![Rust](https://img.shields.io/badge/-Rust-%230D1117?style=flat-square&logo=rust)
-![Bash](https://img.shields.io/badge/-Bash-%230D1117?style=flat-square&logo=gnubash)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%230D1117?style=flat-square&logo=javascript)
-![Typescript](https://img.shields.io/badge/-Typescript-%230D1117?style=flat-square&logo=typescript)
-![Svelte](https://img.shields.io/badge/Svelte-%230D1117?style=flat-square&logo=svelte)
+![Rust](https://img.shields.io/badge/Rust-%230D1117?style=flat-square&logo=rust)
+![Bash](https://img.shields.io/badge/Bash-%230D1117?style=flat-square&logo=gnubash)
+![JavaScript](https://img.shields.io/badge/JavaScript-%230D1117?style=flat-square&logo=javascript)
+![Typescript](https://img.shields.io/badge/Typescript-%230D1117?style=flat-square&logo=typescript)
+![Svelte](https://img.shields.io/badge/Svelte-%230D1117?style=flat-square&logo=svelte)<!---https://gist.github.com/Rich-Harris/0f910048478c2a6505d1c32185b61934-->
 ![Python](https://img.shields.io/badge/-Python-%230D1117?style=flat-square&logo=python)
-![C#](https://img.shields.io/badge/-C%23-%230D1117?style=flat-square&logo=csharp)
+![AHK](https://img.shields.io/badge/AutoHotKey-%230D1117?style=flat-square&logo=autohotkey)
+![C#](https://img.shields.io/badge/C%23-%230D1117?style=flat-square&logo=csharp)
 
 <h3>Other (awesome) tools I use</h3>
 
@@ -64,5 +68,12 @@ I love open source software 📖 and GNU/Linux 🐧
 ![SQLite](https://img.shields.io/badge/SQLite-%230D1117?style=flat-square&logo=sqlite)
 
 ---
+
 ![Malted's GitHub stats](https://github-readme-stats.vercel.app/api?username=ma1ted&show_icons=true&theme=tokyonight&count_private=true)
 ![Malted's Commit Snake](https://raw.githubusercontent.com/ma1ted/ma1ted/snake/github-contribution-grid-snake.svg)
+
+---
+
+<h3>Contact</h3>
+
+![Discord](https://img.shields.io/badge/Malted%230001-%230D1117?style=for-the-badge&logo=discord)
