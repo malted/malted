@@ -76,4 +76,4 @@ I love open source software 📖 and GNU/Linux 🐧
 
 <h3>Contact</h3>
 
-![Discord](https://img.shields.io/badge/Malted%230001-%230D1117?style=for-the-badge&logo=discord)
+![Discord](https://img.shields.io/badge/Malted%230826-%230D1117?style=for-the-badge&logo=discord)
