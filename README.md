@@ -4,9 +4,7 @@
 
 <h2>About Me</h2>
 
-What's crackalackin'? I'm a full-stack developer from the UK 🇬🇧 <br>
-I dabble in all sorts. Game development, backend, midend, and frontend most recently <br>
-I love open source software 📖 and GNU/Linux 🐧
+Hi! I'm a full stack developer who's only personality traits are my love of cereal and use Arch Linux 🐧
 
 ---
 
@@ -22,7 +20,7 @@ I love open source software 📖 and GNU/Linux 🐧
 <h4>🌱 I’m currently learning</h4>
 <ul>
   <li>Rust - A performant and memory-safe general-purpose programming language</li>
-  <li>Godot - A powerful game engine</li>
+  <li>React - A JavaScript library for building user interfaces</li>
   <li>Bevy - A powerful game engine</li>
 </ul>
 <h4>🔜 In the future I plan to learn</h4>
