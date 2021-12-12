@@ -8,7 +8,8 @@ Hi! I'm a full stack developer who's only personality traits are my love of cere
 
 ---
 
-✏️ I’m currently working on:
+<h4>✏️ I’m currently working on: </h4>
+
 * Threeditor, an interactive web editor for building & exporting scenes using [Three.js](https://threejs.org)
 * A Typescript library providing useful abstractions and ease of interaction with OvernetData's EduLinkOne service
 
