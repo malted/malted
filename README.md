@@ -11,10 +11,10 @@ Hi! I'm a full stack developer who's only personality traits are my love of cere
 <h4>✏️ I’m currently working on: </h4>
 
 * Threeditor, an interactive web editor for building & exporting scenes using [Three.js](https://threejs.org)
-* A Typescript library providing useful abstractions and ease of interaction with OvernetData's EduLinkOne service
+<!-- * A Typescript library providing useful abstractions and ease of interaction with OvernetData's EduLinkOne service -->
 
 [![Threeditor Card](https://github-readme-stats.vercel.app/api/pin/?username=ma1ted&repo=threeditor&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
-[![EduLink Card](https://github-readme-stats.vercel.app/api/pin/?username=ma1ted&repo=edulink&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![EduLink Card](https://github-readme-stats.vercel.app/api/pin/?username=edulinkone&repo=edulink&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ---
 
