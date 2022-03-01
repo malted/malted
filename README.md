@@ -4,7 +4,7 @@
 
 <h2>About Me</h2>
 
-Hi! I'm a full stack developer who's only personality traits are my love of cereal and use Arch Linux 🐧
+Hi! I'm a full stack developer who's only personality traits are my love of cereal and use of Arch Linux 🐧
 
 ---
 
