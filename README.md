@@ -16,7 +16,7 @@ Hi! I'm a full stack developer who;
 ### ✏️ I’m currently working on:
 
 * Key Target; a super-secret, browser-based multiplayer game based on <em>Battleships</em>
-
+* Reverse-engineering OvernetData's EduLinkOne API into a Typescript library
 * Threeditor; an interactive web editor for building & exporting scenes using [Three.js](https://threejs.org)
 <!-- * A Typescript library providing useful abstractions and ease of interaction with OvernetData's EduLinkOne service -->
 
