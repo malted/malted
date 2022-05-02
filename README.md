@@ -87,4 +87,4 @@ Hi! I'm a full stack developer who;
 
 ### Contact
 
-![Discord](https://img.shields.io/badge/Malted%230826-%230D1117?style=for-the-badge&logo=discord)
+![Discord](https://img.shields.io/badge/Malted%230001-%230D1117?style=for-the-badge&logo=discord)
