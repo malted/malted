@@ -12,4 +12,5 @@
 | Sport to get me big and strong | Rowing |
 | Favourite Slack emote | <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> |
 | Favourite GIF | <img alt="feathers mcgraw slicking back their comb/rubber glove" src="http://78.media.tumblr.com/c8adbbd83aaa904da5145418249e86ea/tumblr_mgc2jisigf1rl52wjo5_400.gif" width="100" /> |
-| Commit snake 🐍 | ![Malted's Commit Snake](https://raw.githubusercontent.com/ma1ted/ma1ted/snake/github-contribution-grid-snake.svg) |
+
+![Malted's Commit Snake](https://raw.githubusercontent.com/ma1ted/ma1ted/snake/github-contribution-grid-snake.svg)
