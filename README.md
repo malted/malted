@@ -5,7 +5,7 @@
 | Favourite language | JavaScript |
 | Favourite language when asked | Rust |
 | Favourite web framework | [Svelte](https://svelte.dev) |
-| Favourite typefaces | Jetbrains Mono, IBM Plex Sans |
+| Favourite typefaces | JetBrains Mono, IBM Plex Sans |
 | Corporate shill | [Replit](https://replit.com) |
 | Main source of procrastination | [Unity](https://unity.com) |
 | Favourite song | [Divinity - Porter Robinson](https://www.youtube.com/watch?v=si81bIoZRJQ) |
