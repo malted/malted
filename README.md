@@ -12,6 +12,6 @@
 | Favourite Slack emote | <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> |
 | Favourite GIF | <img alt="feathers mcgraw slicking back their comb/rubber glove" src="http://78.media.tumblr.com/c8adbbd83aaa904da5145418249e86ea/tumblr_mgc2jisigf1rl52wjo5_400.gif" width="100" /> |
 
-![Malted's Commit Streaks](https://github-readme-streak-stats.herokuapp.com/?user=ma1ted&count_private=true&theme=dark&hide_border=true&background=0D1117&stroke=0000)
+<!-- ![Malted's Commit Streaks](https://github-readme-streak-stats.herokuapp.com/?user=ma1ted&count_private=true&theme=dark&hide_border=true&background=0D1117&stroke=0000) -->
 
 ![Malted's Commit Snake](https://raw.githubusercontent.com/ma1ted/ma1ted/snake/github-contribution-grid-snake.svg)
