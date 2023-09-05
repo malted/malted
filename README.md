@@ -1,4 +1,3 @@
-<!-- TOOD: Make my own commit streak widget -->
 <div align=center>
 	<p>
 		Is Malted. 
@@ -8,8 +7,4 @@
 		They don't know it, but the patent is <i>still</i> pending. 
 		Sometimes the other thing is okay too.
 	</p>
-	<img 
-		src="https://raw.githubusercontent.com/ma1ted/ma1ted/snake/github-contribution-grid-snake.svg" 
-		alt="Malted's commit snake" 
-	/>
 </div>
