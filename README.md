@@ -13,3 +13,5 @@ I move around a lot, but I'm currently here ⬇️
   <source media="(prefers-color-scheme: light) and (min-width: 961px)" width="50%" srcset="https://malted.dev/content/map/light?height=300">
   <img alt="a map of where I currently am" src="https://malted.dev/content/map/light?height=300">
 </picture>
+
+###### (this is a live map; you should come and say hi)
