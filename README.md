@@ -1,7 +1,8 @@
 > Not to be pernickety, but you can probably replace that `std::sync::Mutex` with a `parking_lot::RwLock`
 
-I work at [Hack Club](https://hackclub.com) on [HCB](https://hackclub.com/fiscal-sponsorship), developing [awesome financial tools](https://hcb.hackclub.com/hq) for high schoolers to get [501(c)(3) nonprofit status](https://en.wikipedia.org/wiki/501(c)(3)_organization) for free.
-The repo is private (we handle a lot of money!) so most of my commits are hidden. It's a full-stack [Ruby on Rails](https://rubyonrails.org) app, but I'm most comfortable writing [Rust](https://www.rust-lang.org/), which I use for most of my personal projects - for example my website; [malted.dev](https://malted.dev)
+### Engineering at [Hack Club](https://hackclub.com)!
+
+Encouraging teenagers to build cool shit with their friends all over the world because CS in schools sucks.
 
 I move around a lot, but I'm currently here ⬇️
 
