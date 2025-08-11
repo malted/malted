@@ -1,9 +1,5 @@
 > Not to be pernickety, but you can probably replace that `std::sync::Mutex` with a `parking_lot::RwLock`
 
-### Engineering at [Hack Club](https://hackclub.com)!
-
-Encouraging teenagers to build cool shit with their friends all over the world because CS in schools sucks.
-
 I move around a lot, but I'm currently here ⬇️
 
 <picture>
