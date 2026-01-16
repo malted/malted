@@ -1,6 +1,5 @@
 > Not to be pernickety, but you can probably replace that `std::sync::Mutex` with a `parking_lot::RwLock`
-
-I move around a lot, but I'm currently here ⬇️
+<!-- I move around a lot, but I'm currently here ⬇️
 
 <picture>
   <source media="(prefers-color-scheme: dark) and (max-width: 960px)" srcset="https://malted.dev/location/dark" />
@@ -11,4 +10,4 @@ I move around a lot, but I'm currently here ⬇️
   <img alt="a map of where I currently am" src="https://malted.dev/location/light">
 </picture>
 
-###### (this is a live map; you should come and say hi)
+###### (this is a live map; you should come and say hi) -->
